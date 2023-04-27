@@ -16,6 +16,7 @@ Configurando o Phishing
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clonar: http://www.facebook.com
 
-
  Resultado
- ![senha](https://user-images.githubusercontent.com/131562077/235012423-d4106351-e2d0-425c-a4a9-af4a32e50541.png)
+ 
+ 
+ ![senha](https://user-images.githubusercontent.com/131562077/235012482-637eccdb-86ee-4429-8f16-9939ebcda8e8.png)
