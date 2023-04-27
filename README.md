@@ -15,3 +15,7 @@ Configurando o Phishing
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clonar: http://www.facebook.com
+
+
+ Resultado
+ ![senha](https://user-images.githubusercontent.com/131562077/235012423-d4106351-e2d0-425c-a4a9-af4a32e50541.png)
